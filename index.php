@@ -9,6 +9,5 @@
         <?php
             echo 'teste git';
         ?>
-   
     </body>
 </html>
